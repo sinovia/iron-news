@@ -1,3 +1,8 @@
+.wrapper {
+    width: 6xs00px;
+    margin: 0 auto;
+}
+
 .nav{
   display: flex;
   font-family: Tahoma;
@@ -8,7 +13,7 @@
 }
 
 .header {
-  background-color: #999
+  background-color: #8d90a1;
 }
 
 .listings {
@@ -20,7 +25,7 @@ ul {
   padding: 10px;
 }
 
-.logo {
+.logo {z
   color: white;
   border: 1px solid white;
   font-weight: bolder;
