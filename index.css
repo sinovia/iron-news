@@ -1,5 +1,5 @@
 .wrapper {
-    width: 6xs00px;
+    width: 1000px;
     margin: 0 auto;
 }
 
@@ -25,7 +25,11 @@ ul {
   padding: 10px;
 }
 
-.logo {z
+ol {
+  background-color:#eef0f3;
+}
+
+.logo {
   color: white;
   border: 1px solid white;
   font-weight: bolder;
@@ -35,3 +39,28 @@ ul {
 
 .bar
   {color: white;}
+
+.address {
+  color: grey;
+  font-size: 15px;
+}
+
+.points {
+  color: grey;
+  font-size: 10px;
+}
+
+p span
+{
+    display: block;
+}
+
+.navfoot {
+  display: flex;
+  font-family: Tahoma;
+  border-top: 1px black solid;
+}
+
+.footbar
+  {color: #1a1a1a;
+}
